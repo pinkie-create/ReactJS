@@ -1,0 +1,18 @@
+.chatList {
+    text-decoration: none;
+    padding: 10px;
+    background: darkcyan;
+    color: white;
+    border: 1px solid darkcyan;
+}
+
+.chatList:hover {
+    color: darkcyan;
+    background: white;
+}
+
+.chatFlex {
+    display: flex;
+    gap: 200px;
+    align-items: end;
+}
