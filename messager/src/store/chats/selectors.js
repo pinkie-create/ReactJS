@@ -1,0 +1,1 @@
+export const selectChats = store => store.chats;
