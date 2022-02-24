@@ -1,0 +1,18 @@
+.routerLink {
+    display: flex;
+    gap: 20px;
+}
+
+.routerNavlink {
+    text-decoration: none;
+    border: 1px solid darkcyan;
+    padding: 10px;
+    color: darkcyan;
+    background: white;
+}
+
+.routerNavlink:hover {
+    color: white;
+    background: darkcyan;
+    transition: 0.2s;
+}
